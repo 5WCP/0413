@@ -1,0 +1,23 @@
+.fast {
+    width: 100%;
+    text-align: center;
+}
+.fast .div {
+    background-color: blueviolet;
+}
+.fast .div .img {
+    width: 100px;
+    height: 100px;
+    background-image: url(\咖波.jpg);
+    background-size: cover;
+    text-align: center;
+    display: inline-block;
+    border-radius: 100%;
+}
+.div {
+    width: 100%;
+    text-align: center;
+}
+.div .div {
+    background-color :blueviolet;
+}
